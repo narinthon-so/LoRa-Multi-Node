@@ -1,0 +1,11 @@
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\bin\Debug\LoRaVB.exe.config
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\bin\Debug\LoRaVB.exe
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\bin\Debug\LoRaVB.pdb
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\bin\Debug\LoRaVB.xml
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.vbprojAssemblyReference.cache
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.Form1.resources
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.Resources.resources
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.vbproj.GenerateResource.cache
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.exe
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.xml
+C:\Users\1997b\OneDrive\works\LoRa\lora1-2\LoRaVB\LoRaVB\obj\Debug\LoRaVB.pdb
